@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(137,27): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(150,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(173,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(174,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(185,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\pmprh\source\repos\TowerDefenseGame\TowerDefenseGame\Game.cpp(248,20): warning C4018:  '<': signed/unsigned mismatch
+  TowerDefenseGame.vcxproj -> C:\Users\pmprh\source\repos\TowerDefenseGame\Debug\TowerDefenseGame.exe
